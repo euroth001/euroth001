@@ -24,9 +24,9 @@
 
 ## 📊 สถิติ GitHub
 
-[![สถิติ GitHub ของฉัน](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![สถิติ GitHub ของฉัน](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
 
 ---
 ### ☕ มีความสุขกับการเขียนโค้ด!
 
-![โปรไฟล์นี้ถูกเยี่ยมชมโดย](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![โปรไฟล์นี้ถูกเยี่ยมชมโดย](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg
